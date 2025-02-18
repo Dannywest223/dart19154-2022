@@ -1,0 +1,11 @@
+My name is Dannels okoro and reg no is 19154/2022
+
+# Parking Ticket System
+
+This project simulates the process of issuing parking tickets by a police officer.
+It includes classes to represent the parked car, parking meter, parking ticket, and police officer.
+
+### How to Run
+1. Clone the repository.
+2. Open the project in your IDE.
+3. Run the `main.dart` file to simulate the system.
